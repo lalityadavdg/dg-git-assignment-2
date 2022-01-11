@@ -1,0 +1,12 @@
+# ignore the file in build folder
+build/
+test-runs/logs/
+# ignore the csv files
+*.csv
+
+
+#ignore the log file
+*.log
+
+#ignore the env file
+*.env
