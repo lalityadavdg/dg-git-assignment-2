@@ -1,0 +1,11 @@
+Title: FEAPP-420/Adding feature to notify customers via Whatsapp.
+
+Description: It provide the functionability to send Whatsapp notification also about the product listing 
+
+What: It also adds the feature to send the whatsapp notification as well as email to the customers. 
+
+Why: Lots of customers demanding for the feature to get notified on whatsapp also.
+
+Notes:
+
+Reviewers: Agastya Bisht, Anish Khandelwal
